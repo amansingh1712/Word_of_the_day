@@ -1,0 +1,20 @@
+{
+  "name": "word_of_the_day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amansingh1712/Word_of_the_day.git"
+  },
+  "author": "Aman Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amansingh1712/Word_of_the_day/issues"
+  },
+  "homepage": "https://github.com/amansingh1712/Word_of_the_day#readme"
+}
